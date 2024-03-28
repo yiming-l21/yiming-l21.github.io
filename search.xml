@@ -16,6 +16,7 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
 
 <p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h3 id="解决hexo本地更新上传github后无法同步的问题"><a href="#解决hexo本地更新上传github后无法同步的问题" class="headerlink" title="解决hexo本地更新上传github后无法同步的问题"></a>解决hexo本地更新上传github后无法同步的问题</h3><p><a class="link"   href="https://blog.csdn.net/weixin_44235530/article/details/136125553?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-136125553-blog-105308377.235%5Ev43%5Epc_blog_bottom_relevance_base6&spm=1001.2101.3001.4242.2&utm_relevant_index=4" >hexo个人博客上传github后无法更新网页博客_github上hexo没刷新-CSDN博客 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 ]]></content>
   </entry>
   <entry>
